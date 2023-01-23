@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONIncomeOutcome", "JSONIncomeOutcome.csproj", "{08D6EF2A-AFB8-4282-BE74-DDDD0B1078DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D6EF2A-AFB8-4282-BE74-DDDD0B1078DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D6EF2A-AFB8-4282-BE74-DDDD0B1078DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D6EF2A-AFB8-4282-BE74-DDDD0B1078DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D6EF2A-AFB8-4282-BE74-DDDD0B1078DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE181145-EF50-434B-B971-693B1A9F12EB}
+	EndGlobalSection
+EndGlobal
